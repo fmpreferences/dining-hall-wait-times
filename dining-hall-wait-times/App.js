@@ -1,7 +1,9 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
-import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
+import { StyleSheet, Text, View, TouchableOpacity,  } from 'react-native';
 import DiningList from './DiningList'
+import { FirebaseAnalyticsJS } from 'expo-firebase-analytics';
+
 const courtTimes = [{name:'Earhart'},
 {name:'Ford'},
 {name:'Hillenbrand'},
