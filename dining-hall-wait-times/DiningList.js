@@ -12,7 +12,7 @@ export default function DiningList() {
       <FlatList data={courtTimes}
       renderItem = {({ item, index, separators }) => 
       <Text>
-        item.name
+        {item.name}
       </Text>}
       ></FlatList>
     );
