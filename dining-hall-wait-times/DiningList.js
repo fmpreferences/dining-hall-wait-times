@@ -1,6 +1,7 @@
 import React from 'react';
 import { Text, TouchableOpacity,View,FlatList } from 'react-native';
 
+
 const courtTimes = [{name:'Earhart'},
 {name:'Ford'},
 {name:'Hillenbrand'},
@@ -10,10 +11,12 @@ const courtTimes = [{name:'Earhart'},
 export default function DiningList() {
     return (
       <FlatList data={courtTimes}
-      renderItem = {({ item, index, separators }) => 
-      <Text>
-        {item.name}
-      </Text>}
+      renderItem = {({ item, index, separators }) =>
+      <View>
+        <Text>
+          {item.name}
+        </Text>
+      </View>} 
       ></FlatList>
     );
   }
