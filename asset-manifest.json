@@ -1,19 +1,22 @@
 {
   "files": {
-    "app.js": "/dining-hall-wait-times/static/js/app.f26af216.chunk.js",
-    "app.js.map": "/dining-hall-wait-times/static/js/app.f26af216.chunk.js.map",
+    "app.js": "/dining-hall-wait-times/static/js/app.008b36a8.chunk.js",
+    "app.js.map": "/dining-hall-wait-times/static/js/app.008b36a8.chunk.js.map",
     "runtime~app.js": "/dining-hall-wait-times/static/js/runtime~app.45232cf0.js",
     "runtime~app.js.map": "/dining-hall-wait-times/static/js/runtime~app.45232cf0.js.map",
-    "static/js/2.dab80436.chunk.js": "/dining-hall-wait-times/static/js/2.dab80436.chunk.js",
-    "static/js/2.dab80436.chunk.js.map": "/dining-hall-wait-times/static/js/2.dab80436.chunk.js.map",
+    "static/js/2.278975d1.chunk.js": "/dining-hall-wait-times/static/js/2.278975d1.chunk.js",
+    "static/js/2.278975d1.chunk.js.map": "/dining-hall-wait-times/static/js/2.278975d1.chunk.js.map",
+    "favicon-16.png": "/dining-hall-wait-times/favicon-16.png",
+    "favicon-32.png": "/dining-hall-wait-times/favicon-32.png",
+    "favicon.ico": "/dining-hall-wait-times/favicon.ico",
     "index.html": "/dining-hall-wait-times/index.html",
     "manifest.json": "/dining-hall-wait-times/manifest.json",
     "serve.json": "/dining-hall-wait-times/serve.json",
-    "static/js/2.dab80436.chunk.js.LICENSE.txt": "/dining-hall-wait-times/static/js/2.dab80436.chunk.js.LICENSE.txt"
+    "static/js/2.278975d1.chunk.js.LICENSE.txt": "/dining-hall-wait-times/static/js/2.278975d1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.45232cf0.js",
-    "static/js/2.dab80436.chunk.js",
-    "static/js/app.f26af216.chunk.js"
+    "static/js/2.278975d1.chunk.js",
+    "static/js/app.008b36a8.chunk.js"
   ]
 }
